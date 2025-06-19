@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Datenschutzerklärung – KI-Agent-Chatbot</title>
+  <style>
+    body { font-family: sans-serif; max-width: 800px; margin: 2rem auto; padding: 0 1rem; line-height: 1.6; }
+    h1, h2 { color: #222; }
+    table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
+    th, td { border: 1px solid #ccc; padding: 0.5rem; }
+    th { background-color: #f0f0f0; }
+  </style>
+</head>
+<body>
+  <h1>Datenschutzerklärung</h1>
+  <p><em>Stand: 19.06.2025 – Muster nach EU-DSGVO & deutschem Recht</em></p>
+
+  <h2>1. Verantwortlicher</h2>
+  <p>
+    <strong>Firma:</strong> [Ihr Unternehmensname]<br>
+    <strong>Anschrift:</strong> [Straße, PLZ, Ort]<br>
+    <strong>E-Mail:</strong> info@beispiel.de<br>
+    <strong>Telefon:</strong> +49 000 000000
+  </p>
+
+  <h2>2. Datenschutzbeauftragter</h2>
+  <p>Falls erforderlich: datenschutz@beispiel.de</p>
+
+  <h2>3. Zweck dieser Erklärung</h2>
+  <p>Diese Erklärung beschreibt, wie wir personenbezogene Daten verarbeiten, wenn Sie unseren KI-Agent-Chatbot über soziale Netzwerke (z. B. Instagram Direct Messages) nutzen.</p>
+
+  <h2>4. Verarbeitete Datenkategorien</h2>
+  <table>
+    <thead>
+      <tr><th>Datenkategorie</th><th>Beschreibung</th><th>Beispiel</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Inhaltsdaten</td><td>Texteingaben & gesendete Medien</td><td>Ihre Chatnachricht</td></tr>
+      <tr><td>Nutzungsdaten</td><td>Interaktionsprotokolle, Zeitstempel</td><td>Uhrzeit der Nachricht</td></tr>
+      <tr><td>Metadaten</td><td>Geräteinfos, Plattform-IDs</td><td>Instagram-User-ID</td></tr>
+    </tbody>
+  </table>
+
+  <h2>5. Zwecke der Verarbeitung</h2>
+  <ul>
+    <li>Bereitstellung des Chatbots (Art. 6 Abs. 1 lit. b DSGVO)</li>
+    <li>Betrieb und Sicherheit (Art. 6 Abs. 1 lit. f DSGVO)</li>
+    <li>Fehleranalyse & Optimierung</li>
+    <li>Marketing (nur mit Einwilligung – Art. 6 Abs. 1 lit. a DSGVO)</li>
+  </ul>
+
+  <h2>6. Empfänger & Drittanbieter</h2>
+  <table>
+    <thead>
+      <tr><th>Empfänger</th><th>Zweck</th><th>Sitz</th><th>Garantie</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Meta Platforms Ireland Ltd.</td><td>Messenger-Betrieb</td><td>Irland</td><td>Auftragsverarbeitung</td></tr>
+      <tr><td>OpenAI L.L.C.</td><td>KI-Generierung</td><td>USA</td><td>SCC + Schutzmaßnahmen</td></tr>
+      <tr><td>Hosting-Provider</td><td>Datenverarbeitung</td><td>EU</td><td>Auftragsverarbeitung</td></tr>
+    </tbody>
+  </table>
+
+  <h2>7. Drittlandübertragung</h2>
+  <p>Datenübertragungen (z. B. an OpenAI) erfolgen nur mit geeigneten Garantien gem. Art. 44 ff. DSGVO.</p>
+
+  <h2>8. Speicherdauer</h2>
+  <p>Daten werden regelmäßig nach [XX] Tagen gelöscht oder anonymisiert, soweit keine gesetzlichen Fristen entgegenstehen.</p>
+
+  <h2>9. Automatisierte Entscheidungen</h2>
+  <p>Der Chatbot nutzt automatisierte Textgenerierung, jedoch kein Profiling im Sinne von Art. 22 DSGVO.</p>
+
+  <h2>10. Ihre Rechte</h2>
+  <p>Sie haben das Recht auf Auskunft, Löschung, Berichtigung, Einschränkung, Datenübertragbarkeit sowie Widerspruch.</p>
+
+  <h2>11. Beschwerderecht</h2>
+  <p>Sie können sich bei einer Datenschutzaufsichtsbehörde Ihrer Wahl beschweren.</p>
+
+  <h2>12. Sicherheit</h2>
+  <p>Wir schützen Ihre Daten mit technischen und organisatorischen Maßnahmen (z. B. HTTPS, Zugriffskontrollen).</p>
+</body>
+</html>
